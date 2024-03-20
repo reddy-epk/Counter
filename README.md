@@ -1,4 +1,4 @@
-In this project, let's fix the **Counter** by applying the concepts we have learned till now.
+Building and Debuuging a react **Counter** app
 
 ### Refer to the image below:
 
@@ -17,28 +17,7 @@ In this project, let's fix the **Counter** by applying the concepts we have lear
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
 
-<details>
-<summary>Functionality to be fixed</summary>
-<br/>
-
-Fix the given code to have the following functionality
-
-- Initially, the count should be `0`
-- When the **Increase** button is clicked, then the count should be incremented by one
-- When the **Decrease** button is clicked, then the count should be decremented by one
-</details>
-
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- There are `7` bugs to be fixed to achieve the functionality and the UI that is expected
-
-</details>
 
 > ### _Things to Keep in Mind_
 >
