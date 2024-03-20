@@ -1,4 +1,4 @@
-Building and Debuuging a react **Counter** app
+Building and Debugging a react **Counter** app
 
 ### Refer to the image below:
 
